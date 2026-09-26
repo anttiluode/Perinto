@@ -1,5 +1,7 @@
 # Perintö
 
+![pic](pic.png)
+
 *Inheritance.* Generations of small learners pass pieces of their world model to their children
 through a narrow channel. Can knowledge pile up beyond what one lifetime can find? Can a language
 of **laws** carry a world that single facts cannot? Does a gene for trusting elders adapt to the culture?
