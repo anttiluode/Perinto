@@ -4,7 +4,7 @@
 through a narrow channel. Can knowledge pile up beyond what one lifetime can find? Can a language
 of **laws** carry a world that single facts cannot? Does a gene for trusting elders adapt to the culture?
 
-![Live Demo](https://github.io/anttiluode/docs/index.html) Every curve is computed in the
+Open [live Demo!](https://github.io/anttiluode/docs/index.html) Every curve is computed in the
 browser from `src/v1.js`, the same code as the measured runs.
 
 **Status:** v0 works. Frozen v1 **failed all four predictions**. A post-hoc v1.1 on fresh worlds,
